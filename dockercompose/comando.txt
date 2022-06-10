@@ -1,0 +1,8 @@
+Añadir en terminal
+Dentro de carpeta de archivo ejecutar
+docker-compose up
+
+luego usar el siguiente comando para ver el estado:
+docker-compose ps
+
+Si ambos están Up funciona
